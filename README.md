@@ -55,7 +55,7 @@ Os conjuntos de dados foram retirados do Kaggle, disponível em [S&P 500 Stocks 
 
 ### 🛠️ Estrutura do Projeto
 * database/: Contém os arquivos dos conjuntos de dados utilizados na análise.
-* notebooks/: Notebooks Jupyter contendo o passo a passo da EDA.
+* Notebooks Jupyter contendo o passo a passo da EDA.
 * README.md: Este arquivo.
 
 ### 🚀 Abordagem da Análise
