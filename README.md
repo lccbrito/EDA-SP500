@@ -1,4 +1,4 @@
-# Análise Exploratória de Dados: Empresas do S&P 500 e Dados de Ações
+# 📊 Análise Exploratória de Dados: Empresas do S&P 500 e Dados de Ações
 ### 📋 Contexto e Objetivo
 
 Este projeto realiza uma **Análise Exploratória de Dados (EDA)** sobre as empresas que compõem o índice **S&P 500**, um dos principais indicadores do mercado financeiro dos Estados Unidos. O índice S&P 500 é composto pelas 500 maiores empresas, listadas principalmente nas bolsas **NYSE** e **NASDAQ**, abrangendo diversos setores e indústrias.
