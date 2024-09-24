@@ -14,7 +14,7 @@ O objetivo desta análise é obter insights sobre as características dessas emp
 
 A análise é baseada em dois conjuntos de dados principais:
 **1. Empresas do S&P 500**: Informações sobre a bolsa onde estão listadas, dados financeiros (valor de mercado, crescimento de receita), setor, indústria e localização geográfica.
-**2. Dados Históricos das Ações do S&P 500:** Dados históricos das ações, como preços de abertura e fechamento diários, volume negociado e variação de preços.
+**2. Dados Históricos das Ações do S&P 500:** Dados históricos das ações, como preços de abertura e fechamento diários, volume negociado e variação de preços. (Foi considerado apenas os dados históricos de Jan/2023 a Ago/2024)
 
 Os conjuntos de dados foram retirados do Kaggle, disponível em [S&P 500 Stocks (daily updated)](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks). Eles contêm os seguintes campos:
 
@@ -48,7 +48,7 @@ Os conjuntos de dados foram retirados do Kaggle, disponível em [S&P 500 Stocks 
 
 ### 🔑 Principais Insights
 1. **NYSE e NASDAQ** dominam como as principais bolsas das maiores empresas.
-2. **Empresas de tecnologia** lideram tanto em número quanto em valor de mercado, com gigantes como Alphabet, Apple, Microsoft e NVIDIA.
+2. **Empresas de tecnologia** lideram tanto em número quanto em valor de mercado, com gigantes como Apple, Microsoft e NVIDIA.
 3. A maioria das empresas está sediada nos **Estados Unidos**, reforçando o papel do país como um centro financeiro global.
 4. Embora a tecnologia tenha o maior peso no índice, setores como saúde, serviços financeiros e comunicações também têm um impacto significativo no mercado.
 5. As indústrias mais representadas incluem Serviços Públicos Regulados e Máquinas Industriais Especializadas, além das gigantes tecnológicas.
